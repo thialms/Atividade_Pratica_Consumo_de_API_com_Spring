@@ -57,12 +57,6 @@ Atividade_Pratica_Consumo_de_API_com_Spring/
    ```bash
    mvn spring-boot:run
    ```
-
-4. **Testar os endpoints disponíveis** (exemplo):
-   ```bash
-   http://localhost:8080/dados
-   ```
-
 ---
 
 ## 📖 Funcionalidades Implementadas
@@ -73,16 +67,8 @@ Atividade_Pratica_Consumo_de_API_com_Spring/
 
 ---
 
-## 📌 Próximos Passos (Sugestões de Evolução)
-- Adicionar tratamento de erros mais robusto (ex: fallback em caso de falha da API).
-- Implementar testes unitários e de integração.
-- Criar documentação com **Swagger/OpenAPI**.
-- Adicionar persistência em banco de dados (ex: PostgreSQL).
-
----
-
 ## 👨‍💻 Autor
-Projeto desenvolvido por **Thiago Almeida** como parte das atividades práticas da disciplina de **Desenvolvimento de Software** na FATEC Praia Grande.
+Projeto desenvolvido por **Thiago Almeida** como parte das atividades práticas da disciplina de **Técnicas de Programação 2** na FATEC Praia Grande.
 
 ---
 
